@@ -1,0 +1,7 @@
+openai
+whisper
+python-dotenv
+pydub
+markdown
+pyyaml
+click

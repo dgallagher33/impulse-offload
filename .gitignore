@@ -1,0 +1,4 @@
+__pycache__/
+.env
+vault/Inbox/*
+vault/Processed/*
