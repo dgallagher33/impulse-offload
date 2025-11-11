@@ -5,3 +5,6 @@ pydub
 markdown
 pyyaml
 click
+sounddevice
+scipy
+numpy
